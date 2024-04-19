@@ -16,14 +16,14 @@ Um mit GameHub zu beginnen, befolge diese Schritte:
 
 Dieses Projekt wurde von mir erstellt, indem ich dem `Ultimate React-Kurs` von Mosh Hamedani gefolgt bin. Den vollständigen Kurs findest du unter: https://codewithmosh.com
 
-- Build front-end apps with React and TypeScript
-- Build reusable function components
-- Style your components using vanilla CSS, CSS modules, and CSS-in-JS
-- Manage component state
-- Build forms with React Hook Forms
-- Implement form validation using Zod
-- Connect your React apps to the backend
-- Deploy your React apps
-- Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
-- Apply best practices
+- Erstelle Frontend-Anwendungen mit React und TypeScript
+- Erstelle wiederverwendbare Funktionskomponenten
+- Style deine Komponenten mit Vanilla CSS, CSS-Modulen und CSS-in-JS
+- Verwalte den Komponentenzustand
+- Erstelle Formulare mit React Hook Forms
+- Implementiere Formularvalidierung mit Zod
+- Verbinde deine React-Anwendungen mit dem Backend
+- Deploye deine React-Anwendungen
+- Verwende VSCode-Shortcuts, um deine Produktivität zu steigern
+- Schreibe sauberen Code wie ein Profi
+- Wende Best Practices an
