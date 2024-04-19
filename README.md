@@ -1,21 +1,20 @@
 # GameHub
 
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. 
+Game-Hub ist eine Webanwendung zur Entdeckung von Videospielen, die dir hilft, neue und interessante Spiele zu finden, die du spielen kannst. Mit Game-Hub kannst du nach Spielen nach Plattform, Genre und mehr suchen.
 
 ## Getting Started
 
-To get started with GameHub, follow these steps:
+Um mit GameHub zu beginnen, befolge diese Schritte:
 
+1. Klone dieses Repository auf deinen lokalen Rechner.
+2. Führe `npm install` aus, um die erforderlichen Abhängigkeiten zu installieren.
+3. Hole dir einen RAWG API-Schlüssel unter https://rawg.io/apidocs. Du musst zunächst ein Konto erstellen.
+4. Füge den API-Schlüssel zu **src/services/api-client.ts** hinzu.
+5. Führe `npm run dev` aus, um den Webserver zu starten.
 
-1. Clone this repository to your local machine.
-2. Run `npm install` to install the required dependencies.
-3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first. 
-4. Add the API key to **src/services/api-client.ts**
-5. Run `npm run dev` to start the web server. 
+## Über den Kurs
 
-## About the Course 
-
-This project was built by me, following the Ultimate React course. You can find the full course at: https://codewithmosh.com 
+Dieses Projekt wurde von mir erstellt, indem ich dem `Ultimate React-Kurs` von Mosh Hamedani gefolgt bin. Den vollständigen Kurs findest du unter: https://codewithmosh.com
 
 - Build front-end apps with React and TypeScript
 - Build reusable function components
