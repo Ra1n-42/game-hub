@@ -15,7 +15,7 @@ To get started with GameHub, follow these steps:
 
 ## About the Course 
 
-This is the project was build by me, following the Ultimate React course. You can find the full course at: https://codewithmosh.com 
+This project was built by me, following the Ultimate React course. You can find the full course at: https://codewithmosh.com 
 
 - Build front-end apps with React and TypeScript
 - Build reusable function components
